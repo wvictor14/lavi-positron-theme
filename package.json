@@ -1,0 +1,21 @@
+{
+  "name": "lavi-positron-theme",
+  "displayName": "Lavi",
+  "description": "A dark purple Positron/VS Code theme based on the lavi tmTheme",
+  "version": "0.1.0",
+  "publisher": "wvictor14",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lavi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lavi-color-theme.json"
+      }
+    ]
+  }
+}
