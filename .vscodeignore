@@ -1,0 +1,6 @@
+.vscodeignore
+.gitignore
+.gitattributes
+.git/
+node_modules/
+*.md
